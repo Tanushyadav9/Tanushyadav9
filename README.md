@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanu Yadav</h1>
+<h1 align="center">Hi 👋, I'm Tanush Yadav</h1>
 
 <p align="center">
 AI & Data Science Student • Developer • Tech Enthusiast
